@@ -1,0 +1,18 @@
+{
+  "name": "daily-news-for-rokarmy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^12.7.2",
+    "dotenv": "^8.1.0",
+    "rss-parser": "^3.7.2",
+    "the-camp-lib": "^1.2.1"
+  }
+}
