@@ -1,0 +1,23 @@
+{
+  "name": "daily-news-for-trainee-newneek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0",
+    "the-camp-lib": "^2.1.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.16",
+    "@types/request": "^2.48.4"
+  }
+}
